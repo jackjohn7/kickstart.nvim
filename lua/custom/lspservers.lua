@@ -11,6 +11,7 @@ return {
   -- But for many setups, the LSP (`tsserver`) will work just fine
   -- tsserver = {},
   --
+  --
 
   lua_ls = {
     -- cmd = {...},
