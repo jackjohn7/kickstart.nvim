@@ -12,6 +12,11 @@ return {
   -- tsserver = {},
   --
   --
+  ocamllsp = {},
+
+  html = {},
+
+  htmx = {},
 
   lua_ls = {
     -- cmd = {...},
